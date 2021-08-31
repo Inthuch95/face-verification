@@ -2,5 +2,5 @@ tensorflow-gpu==1.14.0
 keras==2.2.4
 mtcnn
 git+https://github.com/rcmalli/keras-vggface.git
-h5py==2.10.0
 matplotlib
+h5py==2.10.0
