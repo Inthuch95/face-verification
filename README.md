@@ -2,7 +2,7 @@
 Use VGGFace to calculate a face embedding for a new given face and comparing the embedding to the embedding for the single example of the face known to the system.
 
 # Installation
-Install MiniConda: https://docs.conda.io/en/latest/miniconda.html <br>
+Install MiniConda - https://docs.conda.io/en/latest/miniconda.html <br>
 conda create --name vggface python=3.6 <br>
 conda activate vggface <br>
 pip install -r requirements.txt
